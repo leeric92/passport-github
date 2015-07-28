@@ -3,8 +3,8 @@ var express = require('express')
   , util = require('util')
   , GitHubStrategy = require('passport-github').Strategy;
 
-var GITHUB_CLIENT_ID = "--insert-github-client-id-here--"
-var GITHUB_CLIENT_SECRET = "--insert-github-client-secret-here--";
+var GITHUB_CLIENT_ID = 'b3e80b8723ed3f5c76d0'
+var GITHUB_CLIENT_SECRET = 'e0d02473c37d6e8ed4788987b1273ad3ed10a073';
 
 
 // Passport session setup.
